@@ -1,1 +1,2 @@
--e#!/bin/bash\nmv betty /tmp/my_first_directory
+-e#!/bin/bash
+mv betty /tmp/my_first_directory
