@@ -1,2 +1,2 @@
 #!/bin/bash
-chower -h vincent:staff _hello
+chowen -h vincent:staff _hello
