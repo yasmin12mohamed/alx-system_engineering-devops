@@ -1,1 +1,1 @@
-1-Print a word
+Shell rediescrions
