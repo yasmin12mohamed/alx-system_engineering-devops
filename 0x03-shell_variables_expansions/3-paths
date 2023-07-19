@@ -1,2 +1,2 @@
 #!/bin/bash
-wc / * PATH
+export PATH="PATH" | wc -1 / *
